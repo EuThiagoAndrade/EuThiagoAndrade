@@ -19,8 +19,6 @@ Alguns estão maduros.<br/>
 Alguns estão em construção.<br/> 
 Alguns talvez sejam só uma boa ideia esperando uma tarde livre e menos abas abertas no navegador.<br/>
 
-→ Veja os meus repositórios públicos: [github.com/EuThiagoAndrade?tab=repositories](https://github.com/EuThiagoAndrade?tab=repositories)
-
 ## O que penso sobre tecnologia
 
 >**As tecnologias mudam conforme o problema. O problema, infelizmente, costuma ser bem mais criativo que a stack.**
